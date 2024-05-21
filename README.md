@@ -1,4 +1,6 @@
 # Robotics2_JacobianandPT_Group1Cartesian_2024-
+![Jacobian Matrix](https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157568463/008b7661-9495-4b8e-936f-a6b0986956fc)
+![Jacobian Matrix (1)](https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157568463/68a3f066-7b0d-44f3-80d4-47a9ecc97e5b)
 
 
 
