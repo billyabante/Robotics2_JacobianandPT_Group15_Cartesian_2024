@@ -529,7 +529,7 @@ def weld():
     traj4 = rtb.jtraj(q3,q4,15)
     traj5 = rtb.jtraj(q4,q5,15)
     traj6 = rtb.jtraj(q5,q6,15)
-    traj6 = rtb.jtraj(q6,q7,15)
+    traj7 = rtb.jtraj(q6,q7,15)
 
     x1 = -5
     x2 = 15
