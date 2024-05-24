@@ -2,16 +2,6 @@
 ![Jacobian Matrix](https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157568463/008b7661-9495-4b8e-936f-a6b0986956fc)
 ![Jacobian Matrix (1)](https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157568463/68a3f066-7b0d-44f3-80d4-47a9ecc97e5b)
 
- # Cartesian GUI
-
-<div align="center">
-Click here
-
-<div align="center">
-  <a href="https://drive.google.com/file/d/1LD-3A2jJExdkl_EH9v0wCKQldzNiDTic/view?usp=sharing">
-    <img height=100" src="https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157665849/a0766921-caa1-4d51-9a65-9263c3792481"  />
-  </a>
-</div>
 
 # I. Abstract of the Project
 
@@ -53,3 +43,15 @@ In robotics, a singularity is a particular configuration where the robot loses o
 # Path and Trajectory Planning
 
 
+<div align="center">
+ 
+**Cartesian GUI with Pick & Place and Welding**
+
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1LD-3A2jJExdkl_EH9v0wCKQldzNiDTic/view?usp=sharing">
+    <img height=100" src="https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157665849/a0766921-caa1-4d51-9a65-9263c3792481"  />
+  </a>
+</div>
+<div align="center">
+Click here
