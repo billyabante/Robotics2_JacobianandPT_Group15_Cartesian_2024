@@ -29,5 +29,3 @@ Click here
   </a>
 </div>
 
-![Jacobian Matrix](https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157590037/9aca52d5-e550-4c32-bd46-31a79ddb8b12)
-
