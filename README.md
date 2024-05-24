@@ -15,6 +15,9 @@ Click here
 
 # I. Abstract of the Project
 
+This project explores the concepts and steps in controlling the movements of Cartesian Manipulator.A Cartesian manipulator is a type of robot with linear movements along the X, Y, and Z axes, similar to a 3D printer or a CNC machine. To control this robot's movements, we use several mathematical tools and concepts.First,start by calculating the Jacobian Matrix of the Cartesian Manipulator and make also a GUI.The Jacobian Matrix helps us understand how small changes in the robot's joint positions affect the position and orientation of its end-effector (the tool or hand at the end of the robot). By using this matrix, we can calculate velocities and ensure smooth movements.Then compute the singularity,using the determinants of jacobian and basket method.Next,derive the differential equation,it describe the relationship between the robot's joint movements and time. These equations are essential for understanding how the robot's position changes over time and are used to control its speed and acceleration.Lastly,make a path and trajectory planning for timing of movements along that path to ensure efficiency and avoid obstacles.In summary, a Cartesian manipulator uses the Jacobian matrix, differential equations, and path and trajectory planning to move precisely and safely, and to ensure smooth and reliable operations.
+
+
 # II. Introduction
 
 # III. Jacobian Matrix
