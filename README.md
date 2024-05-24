@@ -31,7 +31,10 @@ Click here
 ![Jacobian Matrix](https://github.com/billyabante/Robotics2_JacobianMatrix_Group15_Cartesian_2024/assets/157590037/458249b4-0992-480b-841c-94cf8c6f9ce7)
 
 # IV. Singularity
-In robotics, a singularity is a particular configuration where the robot loses one or more degrees of freedom, making certain movements impossible or highly unpredictable. This happens when the robot's Jacobian matrix, which connects joint velocities to the end-effector's velocities, becomes singular,its determinant reaches zero and it loses rank. At this stage, the end-effector might exhibit infinite velocities or erratic behavior with minimal changes in joint angles, complicating control and precision. Singularities can severely impact the stability, accuracy, and mechanical integrity of robots, making it essential to detect and avoid them in robotic design and operation.
+
+![Screenshot (561)](https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157568463/e0c3bcde-6349-4152-a6aa-9911a4088353)
+
+
 ![Jacobian Matrix](https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157568463/4b542ff3-f5cd-47f5-bbfb-d0509b83206f)
 
  
