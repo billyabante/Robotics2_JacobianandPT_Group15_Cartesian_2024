@@ -47,8 +47,8 @@ Typically, Cartesian manipulators consist of three linear axes, which can be ext
 In robotics, a singularity is a particular configuration where the robot loses one or more degrees of freedom, making certain movements impossible or highly unpredictable. This happens when the robot's Jacobian Matrix, which connects joint velocities to the end-effector's velocities, becomes singular—its determinant reaches zero and it loses rank. At this stage, the end-effector might exhibit infinite velocities or erratic behavior with minimal changes in joint angles, complicating control and precision. Singularities can severely impact the stability, accuracy, and mechanical integrity of robots, making it essential to detect and avoid them in robotic design and operation.
 
 **Here is the computation of the Cartesian Manipulator's Singularity**
-![Jacobian Matrix](https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157568463/4b542ff3-f5cd-47f5-bbfb-d0509b83206f)
 
+![Screenshot (564)](https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157568463/010538e5-2296-4025-b89c-1c2af98e4e65)
  
 # Path and Trajectory Planning
 
