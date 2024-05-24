@@ -20,6 +20,11 @@ This project explores the concepts and steps in controlling the movements of Car
 
 # II. Introduction
 
+A Cartesian manipulator, also referred to as a gantry robot or linear robot, is an industrial robot characterized by its movement in straight lines along the Cartesian coordinate system's X, Y, and Z axes. This configuration ensures highly precise and predictable movements, making Cartesian manipulators ideal for tasks that demand high accuracy, such as 3D printing, CNC machining, and automated assembly lines. Unlike articulated robots, which rely on rotating joints, Cartesian manipulators use linear actuators. This use of linear actuators not only simplifies their control and programming but also enhances their reliability and ease of maintenance. Their straightforward design is particularly advantageous for repetitive tasks and contributes to their robustness in industrial settings.
+
+Typically, Cartesian manipulators consist of three linear axes, which can be extended or combined to cover large workspaces, making them highly adaptable to various industrial applications. Additionally, their modularity allows for easy customization and scalability, enabling manufacturers to tailor the robot to specific tasks or workflows. These manipulators can be equipped with various end effectors, such as grippers, welding torches, or cameras, further expanding their functionality. Due to their precise control and adaptability, Cartesian manipulators are indispensable in modern manufacturing, delivering the precision and efficiency required for advanced automation and high-volume production environments.
+
+
 # III. Jacobian Matrix
 
 ![1](https://github.com/billyabante/Robotics2_JacobianMatrix_Group15_Cartesian_2024/assets/157590037/cc98c41d-665f-4e58-a3fd-28844857fbf7)
