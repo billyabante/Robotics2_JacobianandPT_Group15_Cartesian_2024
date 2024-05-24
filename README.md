@@ -15,4 +15,5 @@ Click here
   </a>
 </div>
 
-![Screenshot (554)](https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157568463/21730745-583f-4ceb-8d9f-99ba45716fd7)
+![Jacobian Matrix](https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157590037/9aca52d5-e550-4c32-bd46-31a79ddb8b12)
+
