@@ -58,7 +58,21 @@ In robotics, a singularity is a particular configuration where the robot loses o
 
 https://youtu.be/-INU9u_6lQg
 
-# Path and Trajectory Planning
+# VI. Path and Trajectory Planning
+
+Define the robot's parameters: The user is prompted to input the link lengths a1, a2, a3, a4, and prismatic joint limits d1, d2, d3 in millimeters. These values are then converted to meters.
+
+**Create the robot model:**
+> A cartesian manipulator is created using the DHRobot and the Denavit-Hartenberg parameters. The robot consists of three prismatic joints. But 1 fixed joint is added and will serve as a stand.
+
+**Define initial and target joint configurations:**
+> The initial joint configuration q0 is set to an array of zeros. Three sets of target joint configurations q1, q2, and q3 are defined by the user input.
+
+**Compute joint trajectories:**
+> Joint trajectories are computed between the initial and target joint configurations using the jtraj function from roboticstoolbox. This function computes a joint trajectory with a specified number of waypoints (20 in this case) using a trapezoidal velocity profile.
+
+**Plot the robot's motion:**
+> The robot's motion is visualized using the plot method from the DHRobot class. The method displays the robot's motion over time, with the option to set limits on the x, y, and z axes. The robot's motion is plotted for each of the three target joint configurations.
 
 ## Click attached link to have access in the video
 
