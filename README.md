@@ -47,7 +47,11 @@ In robotics, a singularity is a particular configuration where the robot loses o
 **Here is the computation of the Cartesian Manipulator's Singularity**
 
 ![Screenshot (564)](https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157568463/010538e5-2296-4025-b89c-1c2af98e4e65)
- 
+
+## Click attached link to have access in the video
+
+https://youtu.be/-INU9u_6lQg
+
 # Path and Trajectory Planning
 
 
