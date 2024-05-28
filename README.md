@@ -54,6 +54,9 @@ https://youtu.be/-INU9u_6lQg
 
 # Path and Trajectory Planning
 
+## Click attached link to have access in the video
+
+https://youtu.be/FCCd5ClEV-I
 
 <div align="center">
  
