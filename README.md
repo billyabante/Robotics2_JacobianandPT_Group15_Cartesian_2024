@@ -74,14 +74,15 @@ Define the robot's parameters: The user is prompted to input the link lengths a1
 **Plot the robot's motion:**
 > The robot's motion is visualized using the plot method from the DHRobot class. The method displays the robot's motion over time, with the option to set limits on the x, y, and z axes. The robot's motion is plotted for each of the three target joint configurations.
 
+![2024-05-2823-25-22-ezgif com-speed](https://github.com/billyabante/Robotics2_JacobianandPT_Group15_Cartesian_2024/assets/157590037/e607422d-250a-4cd2-8014-6bb639097683)
+
 ## Click attached link to have access in the video
 
 https://youtu.be/FCCd5ClEV-I
 
 <div align="center">
  
-**Cartesian GUI with Pick & Place and Welding**
-
+## VII. Cartesian GUI with Pick & Place and Welding
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1LD-3A2jJExdkl_EH9v0wCKQldzNiDTic/view?usp=sharing">
