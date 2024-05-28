@@ -36,7 +36,11 @@ https://youtu.be/GvgBFPrsmmY
 
 # IV. Differential Equation
 
-**Singularity**
+## Click attached link to have access in the video
+
+https://youtu.be/q1Jp_M7wu0E
+
+# V. Singularity
 
 In robotics, a singularity is a particular configuration where the robot loses one or more degrees of freedom, making certain movements impossible or highly unpredictable. This happens when the robot's Jacobian Matrix, which connects joint velocities to the end-effector's velocities, becomes singular—its determinant reaches zero and it loses rank. At this stage, the end-effector might exhibit infinite velocities or erratic behavior with minimal changes in joint angles, complicating control and precision. Singularities can severely impact the stability, accuracy, and mechanical integrity of robots, making it essential to detect and avoid them in robotic design and operation.
 
