@@ -28,13 +28,19 @@ Typically, Cartesian manipulators consist of three linear axes, which can be ext
 ![Screenshot (551)](https://github.com/billyabante/Robotics2_JacobianMatrix_Group15_Cartesian_2024/assets/157568463/c0331f9c-bd94-40c7-8d62-a75a4fb14002)
 ![Screenshot (552)](https://github.com/billyabante/Robotics2_JacobianMatrix_Group15_Cartesian_2024/assets/157568463/bf9320f3-6dab-4b7e-9149-195f9c8ab7e5)
 ![Screenshot (553)](https://github.com/billyabante/Robotics2_JacobianMatrix_Group15_Cartesian_2024/assets/157568463/4c6a112b-3eda-441c-b008-d324954f70bb)
-![Jacobian Matrix](https://github.com/billyabante/Robotics2_JacobianMatrix_Group15_Cartesian_2024/assets/157590037/458249b4-0992-480b-841c-94cf8c6f9ce7)
 
 ## Click attached link to have access in the video
 
 https://youtu.be/GvgBFPrsmmY
 
 # IV. Differential Equation
+
+The differential equation we got from our Jacobian Matrix is used to interpret or analyze the velocity of the end effector and joints of our mechanical manipulator.
+Using this differential equations, we can identify how to change or adjust the velocity of the end effector in the x, y ,z axes as well as the rotation along x, y, and z axes. 
+The differential equation of the velocity vector using the Jacobian matrix allows us to relate joint velocities to end-effector velocities, enabling precise control and analysis of robotic manipulators.
+Geometrically, these configurations are determined, and they have practical implications in robot control and motion planning.
+
+![Jacobian Matrix](https://github.com/billyabante/Robotics2_JacobianMatrix_Group15_Cartesian_2024/assets/157590037/458249b4-0992-480b-841c-94cf8c6f9ce7)
 
 ## Click attached link to have access in the video
 
